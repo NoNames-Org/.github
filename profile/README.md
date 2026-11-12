@@ -15,6 +15,11 @@
 
 </div>
 
+| Project | What it does |
+|---|---|
+| [**NotifyLib**](https://github.com/NoNames-Org/NotifyLib) | Corner notifications for Paper/Leaf 1.21.11: boss bar + resource pack shader, no client mods |
+| [**ServerFade**](https://github.com/NoNames-Org/ServerFade) | Smooth black screen fade and loading screen on BungeeCord server switches, plus a Paper API. No client mods |
+
 <details name="lang">
 <summary><b>🇷🇺 Русский</b></summary>
 
